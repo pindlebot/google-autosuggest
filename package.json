@@ -10,9 +10,11 @@
   "author": "Ben Gardner <ben@focuswish.com> (http://www.automationfuel.com)",
   "license": "ISC",
   "dependencies": {
+    "base-64": "^0.1.0",
     "isomorphic-fetch": "^2.2.1",
     "lodash.flatten": "^4.4.0",
-    "lodash.get": "^4.4.2"
+    "lodash.get": "^4.4.2",
+    "utf-8": "^1.0.0"
   },
   "devDependencies": {
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
