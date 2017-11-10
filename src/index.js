@@ -40,36 +40,25 @@ async function fetchSuggestions(term) {
   return data;
 }
 
-const fetchAll = (params) => Promise.all(params.map(param => 
-  fetchSuggestions(param))
-)
+const fetchAll = (params) => Promise.all(params.map(param => fetchSuggestions(param)))
 
 async function Autosuggest(params, opts = {}) {
   
-  var keywords = []
+  var seeds = []
 
   if(typeof params === 'string') {
-    keywords.push(params)
+
+    seeds.push(params)
   } else if(Array.isArray(params)) {
-    keywords = params.slice(0)
+    
+    seeds = params.slice(0)
   } else {
+    
     console.error('Argument must be a string or an array.')
     return {}
   }
 
-  if(opts.recursive) {
-    let nodes = await fetchAll(keywords)
-
-    return Promise.all(
-      nodes.map(async node => ({
-        children: await fetchAll(node.leaves.map(s => s.leafName)),
-        parents: nodes
-      }))
-    )
-  } else {
-    return fetchAll(keywords)
-  }
- 
+  return fetchAll(seeds)
 }
 
 if(process.env.NODE_ENV === 'test') {
