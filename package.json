@@ -1,0 +1,21 @@
+{
+  "name": "google-autosuggest",
+  "version": "0.0.6",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "NODE_ENV=test node --harmony src",
+    "build": "babel src -d lib"
+  },
+  "author": "Ben Gardner <ben@focuswish.com> (http://www.automationfuel.com)",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "lodash.flatten": "^4.4.0",
+    "lodash.get": "^4.4.2"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}

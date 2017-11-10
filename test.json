@@ -1,0 +1,3077 @@
+[
+  {
+    "children": [
+      {
+        "nodeName": "javascript substring",
+        "nodeId": "5281f57d00ed6b1c99a0876f69bb89f1",
+        "leaves": [
+          {
+            "leafName": "javascript substring after",
+            "leafId": "be7a8441916a438973712cb98fd373cd",
+            "nodeId": "5281f57d00ed6b1c99a0876f69bb89f1",
+            "relevance": 602,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "http://www.w3schools.com/jsref/jsref_substring.asp",
+            "leafId": "ceceadd5fb05999d3973430cdf88b121",
+            "nodeId": "5281f57d00ed6b1c99a0876f69bb89f1",
+            "relevance": 601,
+            "type": "NAVIGATION"
+          },
+          {
+            "leafName": "javascript substring function",
+            "leafId": "aa5716a2389b57af17da5f680b103f65",
+            "nodeId": "5281f57d00ed6b1c99a0876f69bb89f1",
+            "relevance": 600,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript substring before",
+            "leafId": "addc9e41cfbc0f96ec65224859402043",
+            "nodeId": "5281f57d00ed6b1c99a0876f69bb89f1",
+            "relevance": 566,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript substring from end",
+            "leafId": "47268f15fe293b7cbfc38c87bb573945",
+            "nodeId": "5281f57d00ed6b1c99a0876f69bb89f1",
+            "relevance": 565,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript substring replace",
+            "leafId": "e4dd76d361b84a4380c3e419c3d1138a",
+            "nodeId": "5281f57d00ed6b1c99a0876f69bb89f1",
+            "relevance": 564,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript substring between two characters",
+            "leafId": "2a86f5a822fa64ca8c5588c18b0e7b31",
+            "nodeId": "5281f57d00ed6b1c99a0876f69bb89f1",
+            "relevance": 563,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript substring vs slice",
+            "leafId": "4bea115c93a4c4ed5c83fee4e6ed9d11",
+            "nodeId": "5281f57d00ed6b1c99a0876f69bb89f1",
+            "relevance": 562,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript substring after character",
+            "leafId": "b8f9d3610720c63393474b26b4809e30",
+            "nodeId": "5281f57d00ed6b1c99a0876f69bb89f1",
+            "relevance": 561,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript substring regex",
+            "leafId": "f6e87519545ef2e2517d8a03eda3394f",
+            "nodeId": "5281f57d00ed6b1c99a0876f69bb89f1",
+            "relevance": 560,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript substring vs substr",
+            "leafId": "7cb73d4fc6de619cdf3394c38e590e59",
+            "nodeId": "5281f57d00ed6b1c99a0876f69bb89f1",
+            "relevance": 559,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript substring match",
+            "leafId": "07e60f1f4ba5273e665846594af88461",
+            "nodeId": "5281f57d00ed6b1c99a0876f69bb89f1",
+            "relevance": 558,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript substring search",
+            "leafId": "5c902feccec84965ce02a6d75693b197",
+            "nodeId": "5281f57d00ed6b1c99a0876f69bb89f1",
+            "relevance": 557,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript substring remove last character",
+            "leafId": "ffb1e0446136e0ca875a16941478ec66",
+            "nodeId": "5281f57d00ed6b1c99a0876f69bb89f1",
+            "relevance": 556,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript substring end of string",
+            "leafId": "2177089ee284007828e49e670cb764a5",
+            "nodeId": "5281f57d00ed6b1c99a0876f69bb89f1",
+            "relevance": 555,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript substring is not a function",
+            "leafId": "889a1f2339d1b1cfe1669e6356f47cda",
+            "nodeId": "5281f57d00ed6b1c99a0876f69bb89f1",
+            "relevance": 554,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript substring after string",
+            "leafId": "1370b96014cc51f7954d672526ac30f7",
+            "nodeId": "5281f57d00ed6b1c99a0876f69bb89f1",
+            "relevance": 553,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript substring delimiter",
+            "leafId": "beae664302593179b630f27c4aa7b741",
+            "nodeId": "5281f57d00ed6b1c99a0876f69bb89f1",
+            "relevance": 552,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript substring lastindexof",
+            "leafId": "201bb3276ceb28da22ddfb781a4a71c2",
+            "nodeId": "5281f57d00ed6b1c99a0876f69bb89f1",
+            "relevance": 551,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript substring mdn",
+            "leafId": "e89969b29151b969042c47521ed61916",
+            "nodeId": "5281f57d00ed6b1c99a0876f69bb89f1",
+            "relevance": 550,
+            "type": "QUERY"
+          }
+        ]
+      },
+      {
+        "nodeName": "javascript snake",
+        "nodeId": "9763a079da05d68e4605ab0586908201",
+        "leaves": [
+          {
+            "leafName": "javascript snake code",
+            "leafId": "458740281a4da37be8b548332db68e92",
+            "nodeId": "9763a079da05d68e4605ab0586908201",
+            "relevance": 601,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript snake unblocked",
+            "leafId": "cdfa9a3d05191aa7aa546917fab14f40",
+            "nodeId": "9763a079da05d68e4605ab0586908201",
+            "relevance": 600,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript snake hacked",
+            "leafId": "04786742704111a03547951b289398d2",
+            "nodeId": "9763a079da05d68e4605ab0586908201",
+            "relevance": 567,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript snake world record",
+            "leafId": "323c4c188c02af8c9598e65a68f21c2c",
+            "nodeId": "9763a079da05d68e4605ab0586908201",
+            "relevance": 566,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript snake high score",
+            "leafId": "6b88d4beb2cec512f552c0b03d1f9764",
+            "nodeId": "9763a079da05d68e4605ab0586908201",
+            "relevance": 565,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript snake hacked unblocked",
+            "leafId": "d423a8e83d2f96ac7328a72ac78b368f",
+            "nodeId": "9763a079da05d68e4605ab0586908201",
+            "relevance": 564,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript snake source code",
+            "leafId": "1e8bbd4134c466103489383b2278e207",
+            "nodeId": "9763a079da05d68e4605ab0586908201",
+            "relevance": 563,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript snake game unblocked",
+            "leafId": "074196fa42c6aec4a91700540f8d89f5",
+            "nodeId": "9763a079da05d68e4605ab0586908201",
+            "relevance": 562,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript snake case to camelcase",
+            "leafId": "1bd9c4e369bc6b4df5d1944c0636d14e",
+            "nodeId": "9763a079da05d68e4605ab0586908201",
+            "relevance": 561,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript snake tutorial",
+            "leafId": "62d9e91cb7d67a9d2aea4b44a7f1ac1c",
+            "nodeId": "9763a079da05d68e4605ab0586908201",
+            "relevance": 560,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript snake case to title case",
+            "leafId": "5b32f6604baa7c42d7c448eda76b8e17",
+            "nodeId": "9763a079da05d68e4605ab0586908201",
+            "relevance": 559,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript snake case",
+            "leafId": "2809c3ac6075e86bbb60cdd93c042d29",
+            "nodeId": "9763a079da05d68e4605ab0586908201",
+            "relevance": 558,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript snake code incomplete",
+            "leafId": "b82a4bf107bc746de50eff5c4c4b1b82",
+            "nodeId": "9763a079da05d68e4605ab0586908201",
+            "relevance": 557,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript snake small",
+            "leafId": "fe520ff58cb381f33c0340e7008e6e00",
+            "nodeId": "9763a079da05d68e4605ab0586908201",
+            "relevance": 556,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript snake patorjk",
+            "leafId": "368bb86475366fdef005ccb93df347f2",
+            "nodeId": "9763a079da05d68e4605ab0586908201",
+            "relevance": 555,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript snake bot",
+            "leafId": "48722ccf3510178387df67f961f3779e",
+            "nodeId": "9763a079da05d68e4605ab0586908201",
+            "relevance": 554,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript snake game github",
+            "leafId": "7814a9a3a8a5c273e2bb51956ebcefbe",
+            "nodeId": "9763a079da05d68e4605ab0586908201",
+            "relevance": 553,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript snake mobile",
+            "leafId": "45c1929b7caf5aec930696d29355e61a",
+            "nodeId": "9763a079da05d68e4605ab0586908201",
+            "relevance": 552,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript snake cool math",
+            "leafId": "55b1d8f60d46b29a09033cc09f374cf2",
+            "nodeId": "9763a079da05d68e4605ab0586908201",
+            "relevance": 551,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript snake game hacked",
+            "leafId": "77a726b2ff69f522e75a65c0d9b0ef49",
+            "nodeId": "9763a079da05d68e4605ab0586908201",
+            "relevance": 550,
+            "type": "QUERY"
+          }
+        ]
+      },
+      {
+        "nodeName": "javascript array",
+        "nodeId": "2652b13ea98db71432e7e2a3ab04114c",
+        "leaves": [
+          {
+            "leafName": "javascript array length",
+            "leafId": "08e409efb66ccddb699e13021805c095",
+            "nodeId": "2652b13ea98db71432e7e2a3ab04114c",
+            "relevance": 602,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "http://www.w3schools.com/js/js_obj_array.asp",
+            "leafId": "6e2594f81a6aca2f069acb1ccf1e858d",
+            "nodeId": "2652b13ea98db71432e7e2a3ab04114c",
+            "relevance": 601,
+            "type": "NAVIGATION"
+          },
+          {
+            "leafName": "javascript array contains",
+            "leafId": "0ca1e87587530f263715f08e047ebf08",
+            "nodeId": "2652b13ea98db71432e7e2a3ab04114c",
+            "relevance": 600,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript array filter",
+            "leafId": "2e3ef3aa3e6e31ea899565fbdb7133f0",
+            "nodeId": "2652b13ea98db71432e7e2a3ab04114c",
+            "relevance": 566,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript array map",
+            "leafId": "645dc577dc661b1fd3a51b2581c02e5c",
+            "nodeId": "2652b13ea98db71432e7e2a3ab04114c",
+            "relevance": 565,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript array push",
+            "leafId": "b35d63aaa7bbf5ff2790d77e8913e120",
+            "nodeId": "2652b13ea98db71432e7e2a3ab04114c",
+            "relevance": 564,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript array methods",
+            "leafId": "e2201ca99616293ed895aa7c5a02758a",
+            "nodeId": "2652b13ea98db71432e7e2a3ab04114c",
+            "relevance": 563,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript array sort",
+            "leafId": "803cd0e5348a9e7a9cb2c6cd009edabf",
+            "nodeId": "2652b13ea98db71432e7e2a3ab04114c",
+            "relevance": 562,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript array slice",
+            "leafId": "4214449d111dc72f736855f3129d7052",
+            "nodeId": "2652b13ea98db71432e7e2a3ab04114c",
+            "relevance": 561,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript array splice",
+            "leafId": "a8efcbdc8838ac158298c1b86fad51c2",
+            "nodeId": "2652b13ea98db71432e7e2a3ab04114c",
+            "relevance": 560,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript array find",
+            "leafId": "c1849cc01070ecf148e81bb9eef4abdd",
+            "nodeId": "2652b13ea98db71432e7e2a3ab04114c",
+            "relevance": 559,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript array foreach",
+            "leafId": "28d9c145a7ae697de81dd9ba8e087136",
+            "nodeId": "2652b13ea98db71432e7e2a3ab04114c",
+            "relevance": 558,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript array to string",
+            "leafId": "f9911883e87525ef4ea7862c057eb2f5",
+            "nodeId": "2652b13ea98db71432e7e2a3ab04114c",
+            "relevance": 557,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript array concat",
+            "leafId": "66341d1edf14e6f4ea209bd0d5b4f228",
+            "nodeId": "2652b13ea98db71432e7e2a3ab04114c",
+            "relevance": 556,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript array pop",
+            "leafId": "7c54fb81e92e6c5d10675af7cbc9b5b6",
+            "nodeId": "2652b13ea98db71432e7e2a3ab04114c",
+            "relevance": 555,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript array append",
+            "leafId": "3690529c50d7659428cc3b0a4f34be4f",
+            "nodeId": "2652b13ea98db71432e7e2a3ab04114c",
+            "relevance": 554,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript array indexof",
+            "leafId": "6e439bd7c28cb7b18b0a86b63c6e02dd",
+            "nodeId": "2652b13ea98db71432e7e2a3ab04114c",
+            "relevance": 553,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript array reduce",
+            "leafId": "ad6786582fea521c4b1110a997c01784",
+            "nodeId": "2652b13ea98db71432e7e2a3ab04114c",
+            "relevance": 552,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript array join",
+            "leafId": "ab46f7e94ff0839b90bf99fea6605806",
+            "nodeId": "2652b13ea98db71432e7e2a3ab04114c",
+            "relevance": 551,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript array remove",
+            "leafId": "2830830c830a97bd15e67817a0bf2d10",
+            "nodeId": "2652b13ea98db71432e7e2a3ab04114c",
+            "relevance": 550,
+            "type": "QUERY"
+          }
+        ]
+      },
+      {
+        "nodeName": "javascript foreach",
+        "nodeId": "09c56c8c10b36fdae37debc74d826557",
+        "leaves": [
+          {
+            "leafName": "javascript foreach loop",
+            "leafId": "ccf03e774f13d3a99be5f9d3e38d8d94",
+            "nodeId": "09c56c8c10b36fdae37debc74d826557",
+            "relevance": 603,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "http://www.w3schools.com/js/js_loop_for_in.asp",
+            "leafId": "317f1201502d07db570ed81ca0e40094",
+            "nodeId": "09c56c8c10b36fdae37debc74d826557",
+            "relevance": 602,
+            "type": "NAVIGATION"
+          },
+          {
+            "leafName": "javascript foreach object",
+            "leafId": "c6b3e52bca23f2a7a7c16576f94102b3",
+            "nodeId": "09c56c8c10b36fdae37debc74d826557",
+            "relevance": 601,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript foreach break",
+            "leafId": "257425d4aeb3433ac45c87744a068678",
+            "nodeId": "09c56c8c10b36fdae37debc74d826557",
+            "relevance": 600,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript foreach continue",
+            "leafId": "63d74a595a13d8aa3aaa64f8b5b713f8",
+            "nodeId": "09c56c8c10b36fdae37debc74d826557",
+            "relevance": 565,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript foreach example",
+            "leafId": "c12791147205eccd339c0547b373cec1",
+            "nodeId": "09c56c8c10b36fdae37debc74d826557",
+            "relevance": 564,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript foreach key value",
+            "leafId": "fb68fac6c17b41857c440c12b3ba853f",
+            "nodeId": "09c56c8c10b36fdae37debc74d826557",
+            "relevance": 563,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript foreach string",
+            "leafId": "2066d5575f61d6bce1c527c85c433dfc",
+            "nodeId": "09c56c8c10b36fdae37debc74d826557",
+            "relevance": 562,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript foreach return",
+            "leafId": "a32db13137ea802a402715d1139847fd",
+            "nodeId": "09c56c8c10b36fdae37debc74d826557",
+            "relevance": 561,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript foreach vs map",
+            "leafId": "16db758f0bab420f3dc5f3384170341e",
+            "nodeId": "09c56c8c10b36fdae37debc74d826557",
+            "relevance": 560,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript foreach is not a function",
+            "leafId": "5224b3d86045f5afd7f76d5620e60a06",
+            "nodeId": "09c56c8c10b36fdae37debc74d826557",
+            "relevance": 559,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript foreach loop array",
+            "leafId": "90884916648fa22c218bb92d4020a6b8",
+            "nodeId": "09c56c8c10b36fdae37debc74d826557",
+            "relevance": 558,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript foreach json",
+            "leafId": "d964ba5544f027fd73f1f3464c7c9598",
+            "nodeId": "09c56c8c10b36fdae37debc74d826557",
+            "relevance": 557,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript foreach vs for",
+            "leafId": "ebeb60fffce003f7bc936784cf681b4f",
+            "nodeId": "09c56c8c10b36fdae37debc74d826557",
+            "relevance": 556,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript foreach async",
+            "leafId": "1bb0f333fc2f1754d78a1792b57c54db",
+            "nodeId": "09c56c8c10b36fdae37debc74d826557",
+            "relevance": 555,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript foreach get index",
+            "leafId": "97bce5be309290aec3ec86885c83a391",
+            "nodeId": "09c56c8c10b36fdae37debc74d826557",
+            "relevance": 554,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript foreach arrow function",
+            "leafId": "604496ed8df5e02a76234e4dca4df457",
+            "nodeId": "09c56c8c10b36fdae37debc74d826557",
+            "relevance": 553,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript foreach property",
+            "leafId": "f58d6a8cfc964d1afea6b48f1b1ef5d7",
+            "nodeId": "09c56c8c10b36fdae37debc74d826557",
+            "relevance": 552,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript foreach promise",
+            "leafId": "655d90492d304b2fce498a6243b17722",
+            "nodeId": "09c56c8c10b36fdae37debc74d826557",
+            "relevance": 551,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript foreach es6",
+            "leafId": "fc3e057b5fa4c0a309d8036df7c5e583",
+            "nodeId": "09c56c8c10b36fdae37debc74d826557",
+            "relevance": 550,
+            "type": "QUERY"
+          }
+        ]
+      },
+      {
+        "nodeName": "javascript for loop",
+        "nodeId": "005bf7fa95c7523b27a6c9b4267c35e7",
+        "leaves": [
+          {
+            "leafName": "javascript for loop array",
+            "leafId": "f0f3758a9fe63c66e23e7c06680d4868",
+            "nodeId": "005bf7fa95c7523b27a6c9b4267c35e7",
+            "relevance": 950,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "http://www.w3schools.com/js/js_loop_for.asp",
+            "leafId": "66809c0f2506876c3d9b663f6c15f6ed",
+            "nodeId": "005bf7fa95c7523b27a6c9b4267c35e7",
+            "relevance": 949,
+            "type": "NAVIGATION"
+          },
+          {
+            "leafName": "javascript for loop break",
+            "leafId": "a2463cc9514105bc1dc2408d981e3897",
+            "nodeId": "005bf7fa95c7523b27a6c9b4267c35e7",
+            "relevance": 601,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript for loop object",
+            "leafId": "dd144635f4dbdd68441296a9cb3b3201",
+            "nodeId": "005bf7fa95c7523b27a6c9b4267c35e7",
+            "relevance": 600,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript for loop increment by 2",
+            "leafId": "9d8c7df284dd23a6fa62fb36e654878e",
+            "nodeId": "005bf7fa95c7523b27a6c9b4267c35e7",
+            "relevance": 565,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript for loop shorthand",
+            "leafId": "b2d5d78a1df322970fa4b9a8ceca8ee4",
+            "nodeId": "005bf7fa95c7523b27a6c9b4267c35e7",
+            "relevance": 564,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript for loop index",
+            "leafId": "55def80a6bef2cbd7ecf968cdc101911",
+            "nodeId": "005bf7fa95c7523b27a6c9b4267c35e7",
+            "relevance": 563,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript for loop over array",
+            "leafId": "b427aaa31f36b8c1d64b2f08d21b85de",
+            "nodeId": "005bf7fa95c7523b27a6c9b4267c35e7",
+            "relevance": 562,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript for loop multiple variables",
+            "leafId": "885f6495b074779fc03b334597caaad2",
+            "nodeId": "005bf7fa95c7523b27a6c9b4267c35e7",
+            "relevance": 561,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript for loop synchronous",
+            "leafId": "bd40b77dbf424131fe0f2126c71d6381",
+            "nodeId": "005bf7fa95c7523b27a6c9b4267c35e7",
+            "relevance": 560,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript for loop array of objects",
+            "leafId": "6bb90447416b4de4ef06384a8b5ddf4a",
+            "nodeId": "005bf7fa95c7523b27a6c9b4267c35e7",
+            "relevance": 559,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript for loop es6",
+            "leafId": "72593c142b6b9a1f9f7538209ffc4ec1",
+            "nodeId": "005bf7fa95c7523b27a6c9b4267c35e7",
+            "relevance": 558,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript for loop async",
+            "leafId": "61f6ed2967a01b947f699278971fadff",
+            "nodeId": "005bf7fa95c7523b27a6c9b4267c35e7",
+            "relevance": 557,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript for loop json",
+            "leafId": "f7ce339c79101b71c7eea4dad5933181",
+            "nodeId": "005bf7fa95c7523b27a6c9b4267c35e7",
+            "relevance": 556,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript for loop scope",
+            "leafId": "0dcefc61cee01d6cf099a764297f94aa",
+            "nodeId": "005bf7fa95c7523b27a6c9b4267c35e7",
+            "relevance": 555,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript for loop multiple conditions",
+            "leafId": "72d6a05ac79db70a9ccd7697e6828980",
+            "nodeId": "005bf7fa95c7523b27a6c9b4267c35e7",
+            "relevance": 554,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript for loop let",
+            "leafId": "d31801e0cea3b424eac0e308dea00fff",
+            "nodeId": "005bf7fa95c7523b27a6c9b4267c35e7",
+            "relevance": 553,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript for loop not working",
+            "leafId": "39f7c7edd60882d7ad892638480f7e82",
+            "nodeId": "005bf7fa95c7523b27a6c9b4267c35e7",
+            "relevance": 552,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript for loop decrement",
+            "leafId": "86cc1b228b5336d88ac0a89bec8af855",
+            "nodeId": "005bf7fa95c7523b27a6c9b4267c35e7",
+            "relevance": 551,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript for loop backwards",
+            "leafId": "eac28fc390c656799d85cd915e7ffee5",
+            "nodeId": "005bf7fa95c7523b27a6c9b4267c35e7",
+            "relevance": 550,
+            "type": "QUERY"
+          }
+        ]
+      },
+      {
+        "nodeName": "javascript map",
+        "nodeId": "f95d5c2f36591329122168bee316cd17",
+        "leaves": [
+          {
+            "leafName": "javascript map example",
+            "leafId": "74592e5801c8a7340a3dbe15fd7852ed",
+            "nodeId": "f95d5c2f36591329122168bee316cd17",
+            "relevance": 700,
+            "type": "QUERY"
+          },
+          {
+            "leafName":
+              "http://www.tutorialspoint.com/javascript/array_map.htm",
+            "leafId": "65897893200bf15145545fd9b48c9160",
+            "nodeId": "f95d5c2f36591329122168bee316cd17",
+            "relevance": 699,
+            "type": "NAVIGATION"
+          },
+          {
+            "leafName": "javascript map object",
+            "leafId": "121d1ac61f98fa5dd869ea0f1a7b8012",
+            "nodeId": "f95d5c2f36591329122168bee316cd17",
+            "relevance": 601,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript map reduce",
+            "leafId": "8369b0da204bb757e47f5a79e0c4860b",
+            "nodeId": "f95d5c2f36591329122168bee316cd17",
+            "relevance": 600,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript map to array",
+            "leafId": "32fbadf5b016bcaafa7374f7522b760c",
+            "nodeId": "f95d5c2f36591329122168bee316cd17",
+            "relevance": 565,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript map to json",
+            "leafId": "52aa7670eee0708042a055dd32a99d90",
+            "nodeId": "f95d5c2f36591329122168bee316cd17",
+            "relevance": 564,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript map foreach",
+            "leafId": "659a695aa355f5adbac6236284c4244b",
+            "nodeId": "f95d5c2f36591329122168bee316cd17",
+            "relevance": 563,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript map library",
+            "leafId": "e8fcd10e504322160f85028bdb531643",
+            "nodeId": "f95d5c2f36591329122168bee316cd17",
+            "relevance": 562,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript map vs foreach",
+            "leafId": "4ca7dede978551797d7fb0a6a16e8371",
+            "nodeId": "f95d5c2f36591329122168bee316cd17",
+            "relevance": 561,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript map keys",
+            "leafId": "501c7ebe626dab92e58116dcbde3bb8d",
+            "nodeId": "f95d5c2f36591329122168bee316cd17",
+            "relevance": 560,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript map entries",
+            "leafId": "35f12ef7035d805ecc2c132dffd37bd8",
+            "nodeId": "f95d5c2f36591329122168bee316cd17",
+            "relevance": 559,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript map filter",
+            "leafId": "035654cfeed5e65bcfae8aa65854fffc",
+            "nodeId": "f95d5c2f36591329122168bee316cd17",
+            "relevance": 558,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript map vs object",
+            "leafId": "aeae9ad0a86ddd8ec7d1d9f6a072fb48",
+            "nodeId": "f95d5c2f36591329122168bee316cd17",
+            "relevance": 557,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript map visualization",
+            "leafId": "6285e9313bb2d1338047fd0fc4d4d23d",
+            "nodeId": "f95d5c2f36591329122168bee316cd17",
+            "relevance": 556,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript map size",
+            "leafId": "409461bf0f211f6e7dd7d5f7dca31b64",
+            "nodeId": "f95d5c2f36591329122168bee316cd17",
+            "relevance": 555,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript map json object",
+            "leafId": "7fc6dfcf975d2c1bfd31bf6ded1d27f7",
+            "nodeId": "f95d5c2f36591329122168bee316cd17",
+            "relevance": 554,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript map object example",
+            "leafId": "593810052d1491036649b406ff37e4a9",
+            "nodeId": "f95d5c2f36591329122168bee316cd17",
+            "relevance": 553,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript map array to object",
+            "leafId": "836ec291dcd497a5dc8e657c7d7842dc",
+            "nodeId": "f95d5c2f36591329122168bee316cd17",
+            "relevance": 552,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript map function example",
+            "leafId": "a1abc45fba58b932899901ead92cc813",
+            "nodeId": "f95d5c2f36591329122168bee316cd17",
+            "relevance": 551,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript map file",
+            "leafId": "7bf1ac936c7518ad7b7e6c54a9a67370",
+            "nodeId": "f95d5c2f36591329122168bee316cd17",
+            "relevance": 550,
+            "type": "QUERY"
+          }
+        ]
+      },
+      {
+        "nodeName": "javascript tutorial",
+        "nodeId": "eda398ee7718596c1f8a85f26de418f5",
+        "leaves": [
+          {
+            "leafName": "javascript tutorial pdf",
+            "leafId": "285cb6e4026fa90502c55f93c26a5772",
+            "nodeId": "eda398ee7718596c1f8a85f26de418f5",
+            "relevance": 700,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "http://www.w3schools.com/js/",
+            "leafId": "2023c1934f771798b7f13793fb94f2b8",
+            "nodeId": "eda398ee7718596c1f8a85f26de418f5",
+            "relevance": 699,
+            "type": "NAVIGATION"
+          },
+          {
+            "leafName": "javascript tutorial point",
+            "leafId": "a5cd8d83d2c84ec946a2be1c7f5602f2",
+            "nodeId": "eda398ee7718596c1f8a85f26de418f5",
+            "relevance": 601,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript tutorial youtube",
+            "leafId": "ae71a2c00ed55566471200b216c5a466",
+            "nodeId": "eda398ee7718596c1f8a85f26de418f5",
+            "relevance": 600,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript tutorial with examples",
+            "leafId": "9edd204630aca58d0922b9aa1907d809",
+            "nodeId": "eda398ee7718596c1f8a85f26de418f5",
+            "relevance": 565,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript tutorial for programmers",
+            "leafId": "9f4fed0a422a27033ae23a6571211451",
+            "nodeId": "eda398ee7718596c1f8a85f26de418f5",
+            "relevance": 564,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript tutorial free",
+            "leafId": "d391dfd4a3c0db9f9326673684061c5d",
+            "nodeId": "eda398ee7718596c1f8a85f26de418f5",
+            "relevance": 563,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript tutorials for beginners",
+            "leafId": "0b78120e72e15bd344ec8f82cbd1d283",
+            "nodeId": "eda398ee7718596c1f8a85f26de418f5",
+            "relevance": 562,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript tutorial video",
+            "leafId": "f5196b8753995e45148067e30e0411cf",
+            "nodeId": "eda398ee7718596c1f8a85f26de418f5",
+            "relevance": 561,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript tutorial mozilla",
+            "leafId": "4fc86eb063abc4701b3fc13db1a2018a",
+            "nodeId": "eda398ee7718596c1f8a85f26de418f5",
+            "relevance": 560,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript tutorial javatpoint",
+            "leafId": "2564290c7a12e84484f93da37db67a0e",
+            "nodeId": "eda398ee7718596c1f8a85f26de418f5",
+            "relevance": 559,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript tutorial library",
+            "leafId": "4ef97515a9bab5eb2ecb4afe4793645a",
+            "nodeId": "eda398ee7718596c1f8a85f26de418f5",
+            "relevance": 558,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript tutorial 2017",
+            "leafId": "2a364d3dc07921764c280cdb60446f23",
+            "nodeId": "eda398ee7718596c1f8a85f26de418f5",
+            "relevance": 557,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript tutorial github",
+            "leafId": "a50942149e5a172e843b44011a5d39b4",
+            "nodeId": "eda398ee7718596c1f8a85f26de418f5",
+            "relevance": 556,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript tutorial projects",
+            "leafId": "78672f10cd0e46345ade4b519b7615c4",
+            "nodeId": "eda398ee7718596c1f8a85f26de418f5",
+            "relevance": 555,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript tutorial for beginners free",
+            "leafId": "d138618878768da107ad9038b4cd7200",
+            "nodeId": "eda398ee7718596c1f8a85f26de418f5",
+            "relevance": 554,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript tutorial for absolute beginners",
+            "leafId": "8ec357c7266f96209de2d0c8b73aec4a",
+            "nodeId": "eda398ee7718596c1f8a85f26de418f5",
+            "relevance": 553,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript tutorial advanced",
+            "leafId": "756d0802e76ae996d4c2a96eadc3f833",
+            "nodeId": "eda398ee7718596c1f8a85f26de418f5",
+            "relevance": 552,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript tutorial reddit",
+            "leafId": "3cc812016347dcdff4ab15bf896735fd",
+            "nodeId": "eda398ee7718596c1f8a85f26de418f5",
+            "relevance": 551,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript tutorial kudvenkat",
+            "leafId": "d86eeda95fbb17f1e574b569c7837b72",
+            "nodeId": "eda398ee7718596c1f8a85f26de418f5",
+            "relevance": 550,
+            "type": "QUERY"
+          }
+        ]
+      },
+      {
+        "nodeName": "javascript date",
+        "nodeId": "82f1807444af75b4dd1236ad8275ad3c",
+        "leaves": [
+          {
+            "leafName": "javascript date format",
+            "leafId": "00b591a9a7aff7475e26200da6afe80d",
+            "nodeId": "82f1807444af75b4dd1236ad8275ad3c",
+            "relevance": 1200,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "http://www.w3schools.com/jsref/jsref_obj_date.asp",
+            "leafId": "ffa4b74ae1f4422827f9e370d599de04",
+            "nodeId": "82f1807444af75b4dd1236ad8275ad3c",
+            "relevance": 1000,
+            "type": "NAVIGATION"
+          },
+          {
+            "leafName": "javascript date to string",
+            "leafId": "e22aee50f6f261e3c5b08f87222b5d23",
+            "nodeId": "82f1807444af75b4dd1236ad8275ad3c",
+            "relevance": 601,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript date object",
+            "leafId": "6140fe32c22ed4902e9cc9da00e373f4",
+            "nodeId": "82f1807444af75b4dd1236ad8275ad3c",
+            "relevance": 600,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript date now",
+            "leafId": "e1003f4a51e6e618c986600a4cddf188",
+            "nodeId": "82f1807444af75b4dd1236ad8275ad3c",
+            "relevance": 565,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript datetime",
+            "leafId": "84b9e22922db328601a6ed454da38812",
+            "nodeId": "82f1807444af75b4dd1236ad8275ad3c",
+            "relevance": 564,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript date comparison",
+            "leafId": "f8bf5fbe7a326d4553983d6c4050a287",
+            "nodeId": "82f1807444af75b4dd1236ad8275ad3c",
+            "relevance": 563,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript date to string format",
+            "leafId": "e9f937c0476e74565c5d0b3ab038b3d6",
+            "nodeId": "82f1807444af75b4dd1236ad8275ad3c",
+            "relevance": 562,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript date functions",
+            "leafId": "e45567ce0810a86855a48f3a0789b20b",
+            "nodeId": "82f1807444af75b4dd1236ad8275ad3c",
+            "relevance": 561,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript date format mm/dd/yyyy",
+            "leafId": "de0e8e02c6d699475dff1894f3c62c63",
+            "nodeId": "82f1807444af75b4dd1236ad8275ad3c",
+            "relevance": 560,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript date add days",
+            "leafId": "de86431f75bbf15a7d896afdd9987196",
+            "nodeId": "82f1807444af75b4dd1236ad8275ad3c",
+            "relevance": 559,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript date parse",
+            "leafId": "09383c36ced6be54115c116def592ccf",
+            "nodeId": "82f1807444af75b4dd1236ad8275ad3c",
+            "relevance": 558,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript datetime format",
+            "leafId": "3ad0d9f3663630c3b4f68994ec8bc923",
+            "nodeId": "82f1807444af75b4dd1236ad8275ad3c",
+            "relevance": 557,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript date methods",
+            "leafId": "3ed4bec59da96cce44c948d13be62ea1",
+            "nodeId": "82f1807444af75b4dd1236ad8275ad3c",
+            "relevance": 556,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript datepicker",
+            "leafId": "f4963fc1d906404486bfb54cbd191333",
+            "nodeId": "82f1807444af75b4dd1236ad8275ad3c",
+            "relevance": 555,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript date timezone",
+            "leafId": "3f9e7a630224e153c1774ef475b0ea44",
+            "nodeId": "82f1807444af75b4dd1236ad8275ad3c",
+            "relevance": 554,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript date gettime",
+            "leafId": "f6cada05052f46b24766d174a4459432",
+            "nodeId": "82f1807444af75b4dd1236ad8275ad3c",
+            "relevance": 553,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript datetime now",
+            "leafId": "76f9ae13981c54b8effb5a3890e6282f",
+            "nodeId": "82f1807444af75b4dd1236ad8275ad3c",
+            "relevance": 552,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript date type",
+            "leafId": "fa3971d5aecf20bb935e3111e2ff471d",
+            "nodeId": "82f1807444af75b4dd1236ad8275ad3c",
+            "relevance": 551,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript date difference",
+            "leafId": "411f7d71f12ec41e44c8159077d48802",
+            "nodeId": "82f1807444af75b4dd1236ad8275ad3c",
+            "relevance": 550,
+            "type": "QUERY"
+          }
+        ]
+      },
+      {
+        "nodeName": "javascript regex",
+        "nodeId": "8254448cb896bbcdd2518ad4324ab4ec",
+        "leaves": [
+          {
+            "leafName": "javascript regex tester",
+            "leafId": "b941270ff89b58d98507f579bfeab2f6",
+            "nodeId": "8254448cb896bbcdd2518ad4324ab4ec",
+            "relevance": 650,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript regex match",
+            "leafId": "6b48fdae38f12c2001792e854a49c8d2",
+            "nodeId": "8254448cb896bbcdd2518ad4324ab4ec",
+            "relevance": 603,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript regex replace",
+            "leafId": "1dc85f14de4ba23c0e44d87c8c0c1059",
+            "nodeId": "8254448cb896bbcdd2518ad4324ab4ec",
+            "relevance": 602,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "http://www.regular-expressions.info/javascript.html",
+            "leafId": "e44a5f13c54610d27e66b46a745d9719",
+            "nodeId": "8254448cb896bbcdd2518ad4324ab4ec",
+            "relevance": 601,
+            "type": "NAVIGATION"
+          },
+          {
+            "leafName": "javascript regexp",
+            "leafId": "1070c3e7f167dadda453ce6d69d7a015",
+            "nodeId": "8254448cb896bbcdd2518ad4324ab4ec",
+            "relevance": 600,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript regex test",
+            "leafId": "c63c6eb097046c9317e95a2e5baf9f58",
+            "nodeId": "8254448cb896bbcdd2518ad4324ab4ec",
+            "relevance": 564,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript regex match group",
+            "leafId": "b5d06390571991c240368a093d84d963",
+            "nodeId": "8254448cb896bbcdd2518ad4324ab4ec",
+            "relevance": 563,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript regex example",
+            "leafId": "c7c7ee73ebd92e8650c2c8ac2d4257a2",
+            "nodeId": "8254448cb896bbcdd2518ad4324ab4ec",
+            "relevance": 562,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript regex lookbehind",
+            "leafId": "8cc01f8296eacaef70390644c5790efb",
+            "nodeId": "8254448cb896bbcdd2518ad4324ab4ec",
+            "relevance": 561,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript regex special characters",
+            "leafId": "b71886c684542cb46e31b28c0b6dcaee",
+            "nodeId": "8254448cb896bbcdd2518ad4324ab4ec",
+            "relevance": 560,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript regex exec",
+            "leafId": "f85fae4094aba8a59dc5c24242d2dd8a",
+            "nodeId": "8254448cb896bbcdd2518ad4324ab4ec",
+            "relevance": 559,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript regex negative lookbehind",
+            "leafId": "4f081d40f352ef48b4f536ebd06f14c4",
+            "nodeId": "8254448cb896bbcdd2518ad4324ab4ec",
+            "relevance": 558,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript regex replace all",
+            "leafId": "307f85060708013bad0dd89db23bbf63",
+            "nodeId": "8254448cb896bbcdd2518ad4324ab4ec",
+            "relevance": 557,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript regex case insensitive",
+            "leafId": "358ba01c3e62a99790a70d20a3f3e3bb",
+            "nodeId": "8254448cb896bbcdd2518ad4324ab4ec",
+            "relevance": 556,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript regex search",
+            "leafId": "3cbeb65d52d69af53ffa61b946e26d0f",
+            "nodeId": "8254448cb896bbcdd2518ad4324ab4ec",
+            "relevance": 555,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript regex cheat sheet",
+            "leafId": "896ca062aa5d62f1efe58b3d317ad96a",
+            "nodeId": "8254448cb896bbcdd2518ad4324ab4ec",
+            "relevance": 554,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript regex escape",
+            "leafId": "1cc527e5e1b8b3f53e83fa7680e3cbd5",
+            "nodeId": "8254448cb896bbcdd2518ad4324ab4ec",
+            "relevance": 553,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript regex with variable",
+            "leafId": "4a7778d2a3cd895459ce18476f173945",
+            "nodeId": "8254448cb896bbcdd2518ad4324ab4ec",
+            "relevance": 552,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript regex backslash",
+            "leafId": "02bcea630a5006fc7b03aa10017d034d",
+            "nodeId": "8254448cb896bbcdd2518ad4324ab4ec",
+            "relevance": 551,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript regex match example",
+            "leafId": "6f760dbfefb0a2f94975cda9124b30be",
+            "nodeId": "8254448cb896bbcdd2518ad4324ab4ec",
+            "relevance": 550,
+            "type": "QUERY"
+          }
+        ]
+      },
+      {
+        "nodeName": "javascript interview questions",
+        "nodeId": "2b5bd5362645cceca66f2a9667b8edd3",
+        "leaves": [
+          {
+            "leafName": "javascript interview questions and answers",
+            "leafId": "468929c8786c0ed2a2e2f871e27f1c2d",
+            "nodeId": "2b5bd5362645cceca66f2a9667b8edd3",
+            "relevance": 1250,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript interview questions and answers pdf",
+            "leafId": "a9e62cd3f5ffcbfd0c07fe94e4212059",
+            "nodeId": "2b5bd5362645cceca66f2a9667b8edd3",
+            "relevance": 601,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript interview questions github",
+            "leafId": "29d051f4fef259208fd4935eb5874bae",
+            "nodeId": "2b5bd5362645cceca66f2a9667b8edd3",
+            "relevance": 600,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript interview questions 2017",
+            "leafId": "c3d5429036c786a923a1ce81444e6411",
+            "nodeId": "2b5bd5362645cceca66f2a9667b8edd3",
+            "relevance": 566,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript interview questions pdf",
+            "leafId": "35c74053b8c1d4f118599838d0c93f93",
+            "nodeId": "2b5bd5362645cceca66f2a9667b8edd3",
+            "relevance": 565,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript interview questions javatpoint",
+            "leafId": "f7169b2c673f13c19763fce82fe989e9",
+            "nodeId": "2b5bd5362645cceca66f2a9667b8edd3",
+            "relevance": 564,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript interview questions for beginners",
+            "leafId": "1e0ede57b7de23e4807ec0f75865a596",
+            "nodeId": "2b5bd5362645cceca66f2a9667b8edd3",
+            "relevance": 563,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript interview questions reddit",
+            "leafId": "0319eb9c5ac05c6c7cedf18a6d52f7de",
+            "nodeId": "2b5bd5362645cceca66f2a9667b8edd3",
+            "relevance": 562,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript interview questions closure",
+            "leafId": "ca82bfd594f8e1b77bfdcaee1feeabaa",
+            "nodeId": "2b5bd5362645cceca66f2a9667b8edd3",
+            "relevance": 561,
+            "type": "QUERY"
+          },
+          {
+            "leafName":
+              "javascript interview questions and answers pdf free download",
+            "leafId": "e2a6a9198e3c882e73d103fe68baf039",
+            "nodeId": "2b5bd5362645cceca66f2a9667b8edd3",
+            "relevance": 560,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript interview questions experienced",
+            "leafId": "23da6cd054f7211911e5081c5d06ced5",
+            "nodeId": "2b5bd5362645cceca66f2a9667b8edd3",
+            "relevance": 559,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript interview questions advanced",
+            "leafId": "902055a9605c3746f881581b9574e37f",
+            "nodeId": "2b5bd5362645cceca66f2a9667b8edd3",
+            "relevance": 558,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript interview questions c# corner",
+            "leafId": "53505aaf1abc53a9a5537b251c5325df",
+            "nodeId": "2b5bd5362645cceca66f2a9667b8edd3",
+            "relevance": 557,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript interview questions book",
+            "leafId": "e93ca704a2fd841587ba08f50eb12770",
+            "nodeId": "2b5bd5362645cceca66f2a9667b8edd3",
+            "relevance": 556,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript interview questions entry level",
+            "leafId": "7b4f9a71aafd07cdf483125386da09b0",
+            "nodeId": "2b5bd5362645cceca66f2a9667b8edd3",
+            "relevance": 555,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript interview questions coding",
+            "leafId": "68bf43b436ad7ca0d0220408fbe4e74f",
+            "nodeId": "2b5bd5362645cceca66f2a9667b8edd3",
+            "relevance": 554,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript interview questions amazon",
+            "leafId": "5ccf596f10300d20146f1863dc71179e",
+            "nodeId": "2b5bd5362645cceca66f2a9667b8edd3",
+            "relevance": 553,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript interview questions youtube",
+            "leafId": "eda736bab68473e6b1ca698806c12a86",
+            "nodeId": "2b5bd5362645cceca66f2a9667b8edd3",
+            "relevance": 552,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript interview questions basic",
+            "leafId": "f1a4dde05e8e2372b761360c4c045ecb",
+            "nodeId": "2b5bd5362645cceca66f2a9667b8edd3",
+            "relevance": 551,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript interview questions and answers github",
+            "leafId": "36e81a603d66b7f70829d999ac0dcc8a",
+            "nodeId": "2b5bd5362645cceca66f2a9667b8edd3",
+            "relevance": 550,
+            "type": "QUERY"
+          }
+        ]
+      },
+      {
+        "nodeName": "javascript settimeout",
+        "nodeId": "1ec4ae72481956e5a1de59d8353cf5fd",
+        "leaves": [
+          {
+            "leafName": "javascript settimeout loop",
+            "leafId": "7fa581b9ca963b8363a0a5d1ec24eb07",
+            "nodeId": "1ec4ae72481956e5a1de59d8353cf5fd",
+            "relevance": 602,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "http://www.w3schools.com/js/js_timing.asp",
+            "leafId": "64df7fbd67308d9bfb8665c67831f69e",
+            "nodeId": "1ec4ae72481956e5a1de59d8353cf5fd",
+            "relevance": 601,
+            "type": "NAVIGATION"
+          },
+          {
+            "leafName": "javascript settimeout example",
+            "leafId": "d6cc4ec9ce2aa779617b846009926cc4",
+            "nodeId": "1ec4ae72481956e5a1de59d8353cf5fd",
+            "relevance": 600,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript settimeout not working",
+            "leafId": "a011c1d6e1a5cc1d02e62bfffdb228cd",
+            "nodeId": "1ec4ae72481956e5a1de59d8353cf5fd",
+            "relevance": 566,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript settimeout 0",
+            "leafId": "770def8e2bce3571ea227a08572e1fa6",
+            "nodeId": "1ec4ae72481956e5a1de59d8353cf5fd",
+            "relevance": 565,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript settimeout cancel",
+            "leafId": "d97e23c7562be3926aee32ba524d206f",
+            "nodeId": "1ec4ae72481956e5a1de59d8353cf5fd",
+            "relevance": 564,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript settimeout with parameters",
+            "leafId": "46c6beb3a5dda8af2757dfe0de835a08",
+            "nodeId": "1ec4ae72481956e5a1de59d8353cf5fd",
+            "relevance": 563,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript settimeout promise",
+            "leafId": "b9015006019abd9b2eb7c3790548603d",
+            "nodeId": "1ec4ae72481956e5a1de59d8353cf5fd",
+            "relevance": 562,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript settimeout mdn",
+            "leafId": "a352a7194bd71c1890eeb998f2c1ca74",
+            "nodeId": "1ec4ae72481956e5a1de59d8353cf5fd",
+            "relevance": 561,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript settimeout not waiting",
+            "leafId": "985203fe3fd4bf2a7b6c9adc5a081093",
+            "nodeId": "1ec4ae72481956e5a1de59d8353cf5fd",
+            "relevance": 560,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript settimeout vs setinterval",
+            "leafId": "15051c9b801ec742cf1358a92bca0156",
+            "nodeId": "1ec4ae72481956e5a1de59d8353cf5fd",
+            "relevance": 559,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript settimeout async",
+            "leafId": "90e5785f215a1606531bc3169f9f1df4",
+            "nodeId": "1ec4ae72481956e5a1de59d8353cf5fd",
+            "relevance": 558,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript settimeout blocking",
+            "leafId": "fe41c530bdb3b5adf275b9e1e71cddc1",
+            "nodeId": "1ec4ae72481956e5a1de59d8353cf5fd",
+            "relevance": 557,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript settimeout repeat",
+            "leafId": "419585ca129b9f12b2fe668ccbb0979a",
+            "nodeId": "1ec4ae72481956e5a1de59d8353cf5fd",
+            "relevance": 556,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript settimeout synchronous",
+            "leafId": "4aa5b17e7eef28e9532a525e7e610446",
+            "nodeId": "1ec4ae72481956e5a1de59d8353cf5fd",
+            "relevance": 555,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript settimeout return value",
+            "leafId": "3dbcd6debb4c579f63c695a815ba9d39",
+            "nodeId": "1ec4ae72481956e5a1de59d8353cf5fd",
+            "relevance": 554,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript settimeout recursive",
+            "leafId": "ec55e0e5e7aba92eae91a625b7d4040b",
+            "nodeId": "1ec4ae72481956e5a1de59d8353cf5fd",
+            "relevance": 553,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript settimeout callback",
+            "leafId": "de6a25c6501f5602e27ca1471fed432e",
+            "nodeId": "1ec4ae72481956e5a1de59d8353cf5fd",
+            "relevance": 552,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript settimeout scope",
+            "leafId": "a147ddb9c7a8b111abc758e402baa219",
+            "nodeId": "1ec4ae72481956e5a1de59d8353cf5fd",
+            "relevance": 551,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript settimeout until condition",
+            "leafId": "97e9d4be7ddd9c8238e7eb96a64a404f",
+            "nodeId": "1ec4ae72481956e5a1de59d8353cf5fd",
+            "relevance": 550,
+            "type": "QUERY"
+          }
+        ]
+      },
+      {
+        "nodeName": "javascript indexof",
+        "nodeId": "bd489375f2aabb4e4fc6a270ef8b29fe",
+        "leaves": [
+          {
+            "leafName": "javascript indexof array",
+            "leafId": "243646ee8261fd5e0c2eadb5e744973d",
+            "nodeId": "bd489375f2aabb4e4fc6a270ef8b29fe",
+            "relevance": 700,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "http://www.w3schools.com/jsref/jsref_indexof.asp",
+            "leafId": "ec196fd385a543b4dead5cd5e97f09dc",
+            "nodeId": "bd489375f2aabb4e4fc6a270ef8b29fe",
+            "relevance": 699,
+            "type": "NAVIGATION"
+          },
+          {
+            "leafName": "javascript indexof object",
+            "leafId": "8944b9d2c17443ced158b4e132664d0c",
+            "nodeId": "bd489375f2aabb4e4fc6a270ef8b29fe",
+            "relevance": 601,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript indexof case insensitive",
+            "leafId": "2ac3e12b1c4f5a596f87f7e105c28a8e",
+            "nodeId": "bd489375f2aabb4e4fc6a270ef8b29fe",
+            "relevance": 600,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript indexof regex",
+            "leafId": "daa6e569cf04f6cd6b682041408e8fb5",
+            "nodeId": "bd489375f2aabb4e4fc6a270ef8b29fe",
+            "relevance": 565,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript indexof not working",
+            "leafId": "d07f697aaff7618e3a0540674c7ff5e7",
+            "nodeId": "bd489375f2aabb4e4fc6a270ef8b29fe",
+            "relevance": 564,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript indexof object property",
+            "leafId": "405a230cc39219468b42485515563383",
+            "nodeId": "bd489375f2aabb4e4fc6a270ef8b29fe",
+            "relevance": 563,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript indexof is not a function",
+            "leafId": "791ac1a45867f8aab310b95b7e49a22a",
+            "nodeId": "bd489375f2aabb4e4fc6a270ef8b29fe",
+            "relevance": 562,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript indexof vs includes",
+            "leafId": "a234c0f66d76e7716685270a4caf8839",
+            "nodeId": "bd489375f2aabb4e4fc6a270ef8b29fe",
+            "relevance": 561,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript indexof multiple",
+            "leafId": "dff1a0c2bbe01e6baadfacf8ae02a410",
+            "nodeId": "bd489375f2aabb4e4fc6a270ef8b29fe",
+            "relevance": 560,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript indexof performance",
+            "leafId": "7b0ea0a66e1e06bc5310b2047f56398b",
+            "nodeId": "bd489375f2aabb4e4fc6a270ef8b29fe",
+            "relevance": 559,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript indexof vs search",
+            "leafId": "b59035cc8024c78b1692c2f6fc2919f2",
+            "nodeId": "bd489375f2aabb4e4fc6a270ef8b29fe",
+            "relevance": 558,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript indexof reverse",
+            "leafId": "f73ef351ad0eb653eeee542eac429828",
+            "nodeId": "bd489375f2aabb4e4fc6a270ef8b29fe",
+            "relevance": 557,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript indexof not found",
+            "leafId": "fb77753fe5afd4ebb794a6fb44702f45",
+            "nodeId": "bd489375f2aabb4e4fc6a270ef8b29fe",
+            "relevance": 556,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript indexof contains",
+            "leafId": "391a3b4bd0eba7b505fca8a44aab76cb",
+            "nodeId": "bd489375f2aabb4e4fc6a270ef8b29fe",
+            "relevance": 555,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript indexof wildcard",
+            "leafId": "ddec5749e03037bff666dd041ed9766b",
+            "nodeId": "bd489375f2aabb4e4fc6a270ef8b29fe",
+            "relevance": 554,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript indexof number",
+            "leafId": "5ac6ce0729a40a2a651b4a87c76eb475",
+            "nodeId": "bd489375f2aabb4e4fc6a270ef8b29fe",
+            "relevance": 553,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript indexof complexity",
+            "leafId": "1fb970b2476fce1df93f34c5bcad3cfe",
+            "nodeId": "bd489375f2aabb4e4fc6a270ef8b29fe",
+            "relevance": 552,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript indexof newline",
+            "leafId": "08156e1b5d1b765524fd289e3ed279eb",
+            "nodeId": "bd489375f2aabb4e4fc6a270ef8b29fe",
+            "relevance": 551,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript indexof exact match",
+            "leafId": "a4ee82feda29639a14ba73f900c4f706",
+            "nodeId": "bd489375f2aabb4e4fc6a270ef8b29fe",
+            "relevance": 550,
+            "type": "QUERY"
+          }
+        ]
+      },
+      {
+        "nodeName": "javascript string contains",
+        "nodeId": "01a03e114d2311c57505ac959ce70f75",
+        "leaves": [
+          {
+            "leafName": "javascript string contains substring",
+            "leafId": "2951a2281e3895e7e77868f967c97a7f",
+            "nodeId": "01a03e114d2311c57505ac959ce70f75",
+            "relevance": 603,
+            "type": "QUERY"
+          },
+          {
+            "leafName":
+              "http://stackoverflow.com/questions/1789945/javascript-string-contains",
+            "leafId": "0597c64bca3526a3fe2648f82cb8d403",
+            "nodeId": "01a03e114d2311c57505ac959ce70f75",
+            "relevance": 602,
+            "type": "NAVIGATION"
+          },
+          {
+            "leafName": "javascript string contains characters",
+            "leafId": "40de9b2b15e8797920f84530de88b142",
+            "nodeId": "01a03e114d2311c57505ac959ce70f75",
+            "relevance": 601,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript string contains regex",
+            "leafId": "4eb889df7aafbbb0c739d67b532fb7b4",
+            "nodeId": "01a03e114d2311c57505ac959ce70f75",
+            "relevance": 600,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript string contains number",
+            "leafId": "ec7d4c0bd8bd388dfda5be72bd83d87e",
+            "nodeId": "01a03e114d2311c57505ac959ce70f75",
+            "relevance": 565,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript string contains function",
+            "leafId": "a658ed71c50b0428ed3d4607f1a50615",
+            "nodeId": "01a03e114d2311c57505ac959ce70f75",
+            "relevance": 564,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript string contains space",
+            "leafId": "390fe2e71a219816cbc2dfc2cf9ab8da",
+            "nodeId": "01a03e114d2311c57505ac959ce70f75",
+            "relevance": 563,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript string contains case insensitive",
+            "leafId": "118f7e9b6bf55c21e4afce48e96df2be",
+            "nodeId": "01a03e114d2311c57505ac959ce70f75",
+            "relevance": 562,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript string contains special characters",
+            "leafId": "de147dea2e93bf66570f8798270fcc18",
+            "nodeId": "01a03e114d2311c57505ac959ce70f75",
+            "relevance": 561,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript string contains array",
+            "leafId": "075687fa4663f4a64c2bb3108727122f",
+            "nodeId": "01a03e114d2311c57505ac959ce70f75",
+            "relevance": 560,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript string contains only numbers",
+            "leafId": "069cada268af7be7aeea582d8cb872bb",
+            "nodeId": "01a03e114d2311c57505ac959ce70f75",
+            "relevance": 559,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript string contains letters",
+            "leafId": "fffa66b72ee9a5116c6db33ed328f168",
+            "nodeId": "01a03e114d2311c57505ac959ce70f75",
+            "relevance": 558,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript string contains any",
+            "leafId": "bafb6fe1947036a2e0fca75fb8dee01f",
+            "nodeId": "01a03e114d2311c57505ac959ce70f75",
+            "relevance": 557,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript string contains any of array",
+            "leafId": "944fd68a9edd17f1c6dcdf9e426ff429",
+            "nodeId": "01a03e114d2311c57505ac959ce70f75",
+            "relevance": 556,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript string contains comma",
+            "leafId": "39803197ff91cff69f29c73ba76e0005",
+            "nodeId": "01a03e114d2311c57505ac959ce70f75",
+            "relevance": 555,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript string contains mdn",
+            "leafId": "299d83ef1d8cd11a6247c8c2d8cc8ed0",
+            "nodeId": "01a03e114d2311c57505ac959ce70f75",
+            "relevance": 554,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript string contains lowercase",
+            "leafId": "dd3cac14b3fc0af7d7f3e5003cdc2238",
+            "nodeId": "01a03e114d2311c57505ac959ce70f75",
+            "relevance": 553,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript string contains double quote",
+            "leafId": "d2e984d3504c3786fb72eb4486005432",
+            "nodeId": "01a03e114d2311c57505ac959ce70f75",
+            "relevance": 552,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript string contains count",
+            "leafId": "8cfa3207c8068e70b200b8f79a2f995f",
+            "nodeId": "01a03e114d2311c57505ac959ce70f75",
+            "relevance": 551,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript string contains newline",
+            "leafId": "5c9b31fda5d50373c39223f35214b576",
+            "nodeId": "01a03e114d2311c57505ac959ce70f75",
+            "relevance": 550,
+            "type": "QUERY"
+          }
+        ]
+      },
+      {
+        "nodeName": "javascript replace",
+        "nodeId": "6735ac27a3cecd9fd3e40f29d08c8940",
+        "leaves": [
+          {
+            "leafName": "javascript replace all",
+            "leafId": "afd1356f945a7aea516a9e87cf2f73ee",
+            "nodeId": "6735ac27a3cecd9fd3e40f29d08c8940",
+            "relevance": 1250,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "http://www.w3schools.com/jsref/jsref_replace.asp",
+            "leafId": "a80ef65c8b51dacca66dfcc7feec6731",
+            "nodeId": "6735ac27a3cecd9fd3e40f29d08c8940",
+            "relevance": 1200,
+            "type": "NAVIGATION"
+          },
+          {
+            "leafName": "javascript replace regex",
+            "leafId": "7cb1cf1c636d2d05ac26db90dd749237",
+            "nodeId": "6735ac27a3cecd9fd3e40f29d08c8940",
+            "relevance": 601,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript replace all spaces",
+            "leafId": "d5f8795f01bb3eac107536f23a9dbf3e",
+            "nodeId": "6735ac27a3cecd9fd3e40f29d08c8940",
+            "relevance": 600,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript replace all instances",
+            "leafId": "4a467b2fcbdbd0f91d9f2e2d6617782f",
+            "nodeId": "6735ac27a3cecd9fd3e40f29d08c8940",
+            "relevance": 565,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript replace special characters",
+            "leafId": "b43a0b08035c0b4d859412c542ccb505",
+            "nodeId": "6735ac27a3cecd9fd3e40f29d08c8940",
+            "relevance": 564,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript replace regular expression",
+            "leafId": "22f15d55e45848f26664ab0ceea34d81",
+            "nodeId": "6735ac27a3cecd9fd3e40f29d08c8940",
+            "relevance": 563,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript replace spaces",
+            "leafId": "6c6f4b3a10a5e3bfb841a7ea44eb231d",
+            "nodeId": "6735ac27a3cecd9fd3e40f29d08c8940",
+            "relevance": 562,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript replace space with dash",
+            "leafId": "a21d0c7989b2ac345324dbd034495902",
+            "nodeId": "6735ac27a3cecd9fd3e40f29d08c8940",
+            "relevance": 561,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript replace comma with space",
+            "leafId": "cfadc54b0c1500338bd299e7573402b4",
+            "nodeId": "6735ac27a3cecd9fd3e40f29d08c8940",
+            "relevance": 560,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript replace element",
+            "leafId": "c697b51e42c7a168e48ffb35c71f6657",
+            "nodeId": "6735ac27a3cecd9fd3e40f29d08c8940",
+            "relevance": 559,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript replace newline",
+            "leafId": "a01bc90a7e5eed61cc3c5e152acd61b6",
+            "nodeId": "6735ac27a3cecd9fd3e40f29d08c8940",
+            "relevance": 558,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript replace multiple strings",
+            "leafId": "5c5cdff01728bac927ca0df5cea3c35a",
+            "nodeId": "6735ac27a3cecd9fd3e40f29d08c8940",
+            "relevance": 557,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript replace comma with newline",
+            "leafId": "a85fc37f033cb270509f8e4077023116",
+            "nodeId": "6735ac27a3cecd9fd3e40f29d08c8940",
+            "relevance": 556,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript replace all spaces with 20",
+            "leafId": "a504d829034fedac909bbcc0d74c10cf",
+            "nodeId": "6735ac27a3cecd9fd3e40f29d08c8940",
+            "relevance": 555,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript replace object in array",
+            "leafId": "900ddfbf5022ab2a41d3ae31f6875a8c",
+            "nodeId": "6735ac27a3cecd9fd3e40f29d08c8940",
+            "relevance": 554,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript replace html",
+            "leafId": "43d35f57af2602ed82997c1808f892d7",
+            "nodeId": "6735ac27a3cecd9fd3e40f29d08c8940",
+            "relevance": 553,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript replace not working",
+            "leafId": "88f9a876415745c3f5edc62a6878b1dd",
+            "nodeId": "6735ac27a3cecd9fd3e40f29d08c8940",
+            "relevance": 552,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript replace backslash",
+            "leafId": "7201eae36828d8885425b9737e82a8ab",
+            "nodeId": "6735ac27a3cecd9fd3e40f29d08c8940",
+            "relevance": 551,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript replace multiple",
+            "leafId": "279d6ad697b3962d7363488463f7c298",
+            "nodeId": "6735ac27a3cecd9fd3e40f29d08c8940",
+            "relevance": 550,
+            "type": "QUERY"
+          }
+        ]
+      },
+      {
+        "nodeName": "javascript download",
+        "nodeId": "48cb6cb31af95a6028e633af3d7ca58d",
+        "leaves": [
+          {
+            "leafName": "javascript download file",
+            "leafId": "f0825cfc7876101d84ccd660fc54a469",
+            "nodeId": "48cb6cb31af95a6028e633af3d7ca58d",
+            "relevance": 700,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "http://java.com/en/download/index.jsp",
+            "leafId": "d3cf96e0b99e0d22d4afe48a8cab53fc",
+            "nodeId": "48cb6cb31af95a6028e633af3d7ca58d",
+            "relevance": 699,
+            "type": "NAVIGATION"
+          },
+          {
+            "leafName": "javascript download file from url",
+            "leafId": "f8fcd68696092e2a35346a3734991c8b",
+            "nodeId": "48cb6cb31af95a6028e633af3d7ca58d",
+            "relevance": 601,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript download for mac",
+            "leafId": "2b1c72dcc58544458fa4291bfeac0115",
+            "nodeId": "48cb6cb31af95a6028e633af3d7ca58d",
+            "relevance": 600,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript download image",
+            "leafId": "0feeda9dd7cf8ce38a724382d0821eb2",
+            "nodeId": "48cb6cb31af95a6028e633af3d7ca58d",
+            "relevance": 565,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript download file from server",
+            "leafId": "3b159601de5791c76f9a4dc4ff7bb9d7",
+            "nodeId": "48cb6cb31af95a6028e633af3d7ca58d",
+            "relevance": 564,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript download for windows 10",
+            "leafId": "01e105d5e670b5d4a0286a518e1b72a2",
+            "nodeId": "48cb6cb31af95a6028e633af3d7ca58d",
+            "relevance": 563,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript download button",
+            "leafId": "b34330edc75e9151376642de7a34fb74",
+            "nodeId": "48cb6cb31af95a6028e633af3d7ca58d",
+            "relevance": 562,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript download file from data",
+            "leafId": "20a37c08bf6b133a3ac3e129bcdcb9f6",
+            "nodeId": "48cb6cb31af95a6028e633af3d7ca58d",
+            "relevance": 561,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript download image from url",
+            "leafId": "a84c6bed0f76ff0277e6c8379cda68e3",
+            "nodeId": "48cb6cb31af95a6028e633af3d7ca58d",
+            "relevance": 560,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript download csv",
+            "leafId": "a50477d669dc121ec43301c944642be9",
+            "nodeId": "48cb6cb31af95a6028e633af3d7ca58d",
+            "relevance": 559,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript download blob",
+            "leafId": "d22ff43de48b49a5d71ad5edfa187c9d",
+            "nodeId": "48cb6cb31af95a6028e633af3d7ca58d",
+            "relevance": 558,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript download pdf",
+            "leafId": "d6d37a8e1e718401e44d44713b7bbdaa",
+            "nodeId": "48cb6cb31af95a6028e633af3d7ca58d",
+            "relevance": 557,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript download file from string",
+            "leafId": "3d2cd77d0fd9b7d6cfcef23efbb770b9",
+            "nodeId": "48cb6cb31af95a6028e633af3d7ca58d",
+            "relevance": 556,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript download json",
+            "leafId": "694e9a8bcc211b96442f70e616fc3e47",
+            "nodeId": "48cb6cb31af95a6028e633af3d7ca58d",
+            "relevance": 555,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript download zip file from server",
+            "leafId": "f5ecc0144aba849535321b23154b6f74",
+            "nodeId": "48cb6cb31af95a6028e633af3d7ca58d",
+            "relevance": 554,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript download for chrome",
+            "leafId": "353f9a654ab88bc34ee2a270984474c0",
+            "nodeId": "48cb6cb31af95a6028e633af3d7ca58d",
+            "relevance": 553,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript download multiple files",
+            "leafId": "e0f7784f3c820cbf07b3ddde83eeaa57",
+            "nodeId": "48cb6cb31af95a6028e633af3d7ca58d",
+            "relevance": 552,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript download for windows 7",
+            "leafId": "6462ada611a1a7d2527782c01357aad9",
+            "nodeId": "48cb6cb31af95a6028e633af3d7ca58d",
+            "relevance": 551,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript download multiple files at once",
+            "leafId": "00a608669708a471b4f4a43e2c99b9d2",
+            "nodeId": "48cb6cb31af95a6028e633af3d7ca58d",
+            "relevance": 550,
+            "type": "QUERY"
+          }
+        ]
+      },
+      {
+        "nodeName": "javascript split",
+        "nodeId": "741f387492cd5009529db05c85ac3ce8",
+        "leaves": [
+          {
+            "leafName": "javascript split comma",
+            "leafId": "76ff996a78eadd677bd39ef40ec914b0",
+            "nodeId": "741f387492cd5009529db05c85ac3ce8",
+            "relevance": 602,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "http://www.w3schools.com/jsref/jsref_split.asp",
+            "leafId": "7a389818d321834737b00eabe30beea7",
+            "nodeId": "741f387492cd5009529db05c85ac3ce8",
+            "relevance": 601,
+            "type": "NAVIGATION"
+          },
+          {
+            "leafName": "javascript split string on whitespace",
+            "leafId": "74f6ef9b152d55457003690826ae8e38",
+            "nodeId": "741f387492cd5009529db05c85ac3ce8",
+            "relevance": 600,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript split regex",
+            "leafId": "775760ab836089bc2bbe93199219a3a0",
+            "nodeId": "741f387492cd5009529db05c85ac3ce8",
+            "relevance": 566,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript split string at index",
+            "leafId": "256044f24d8faf36266e53646c347094",
+            "nodeId": "741f387492cd5009529db05c85ac3ce8",
+            "relevance": 565,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript split remove empty",
+            "leafId": "8b9a6d0f100402aeadfca3e629c91fb5",
+            "nodeId": "741f387492cd5009529db05c85ac3ce8",
+            "relevance": 564,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript split on newline",
+            "leafId": "ae368fb332edfd7eee4cb89a38cf68ee",
+            "nodeId": "741f387492cd5009529db05c85ac3ce8",
+            "relevance": 563,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript split tab",
+            "leafId": "ced3c8af39b59aaf3674fe4c0dd6dfbb",
+            "nodeId": "741f387492cd5009529db05c85ac3ce8",
+            "relevance": 562,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript split backslash",
+            "leafId": "0e8a906a6f3e52943679d5cc0b2b2ba3",
+            "nodeId": "741f387492cd5009529db05c85ac3ce8",
+            "relevance": 561,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript split is not a function",
+            "leafId": "b33b84caec69708a90016986260f823e",
+            "nodeId": "741f387492cd5009529db05c85ac3ce8",
+            "relevance": 560,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript split array into groups",
+            "leafId": "db4c9384470d04b84b6cdbfd040eba79",
+            "nodeId": "741f387492cd5009529db05c85ac3ce8",
+            "relevance": 559,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript split array into chunks",
+            "leafId": "b2e7a1adc6c355e50dff4affa80fa105",
+            "nodeId": "741f387492cd5009529db05c85ac3ce8",
+            "relevance": 558,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript split string into characters",
+            "leafId": "a41482aeeb46ebcf72cbb96e6da33ead",
+            "nodeId": "741f387492cd5009529db05c85ac3ce8",
+            "relevance": 557,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript split string by newline",
+            "leafId": "6ebb3dea60862939e4558aa52a08ee31",
+            "nodeId": "741f387492cd5009529db05c85ac3ce8",
+            "relevance": 556,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript split and trim",
+            "leafId": "2f970fb59138f3e8bcce3cec7d820bc2",
+            "nodeId": "741f387492cd5009529db05c85ac3ce8",
+            "relevance": 555,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript split on whitespace",
+            "leafId": "62f447380ebc8bc0a53b8239b690eb93",
+            "nodeId": "741f387492cd5009529db05c85ac3ce8",
+            "relevance": 554,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript split on multiple characters",
+            "leafId": "f501d55aec6d1aad082c7fa4a740091c",
+            "nodeId": "741f387492cd5009529db05c85ac3ce8",
+            "relevance": 553,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript split join",
+            "leafId": "9e2ca119a997e5c4dca5328af1106154",
+            "nodeId": "741f387492cd5009529db05c85ac3ce8",
+            "relevance": 552,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript split lines",
+            "leafId": "ec404833b76c0c1a129723ade3a247af",
+            "nodeId": "741f387492cd5009529db05c85ac3ce8",
+            "relevance": 551,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript split not working",
+            "leafId": "f231326f351c8f9d3fe719fe336f1e55",
+            "nodeId": "741f387492cd5009529db05c85ac3ce8",
+            "relevance": 550,
+            "type": "QUERY"
+          }
+        ]
+      },
+      {
+        "nodeName": "javascript splice",
+        "nodeId": "c981076a0643941630d0ae4012ec3a27",
+        "leaves": [
+          {
+            "leafName": "javascript splice string",
+            "leafId": "e2818dec8cf6bc4e9158ff6ed6bc607b",
+            "nodeId": "c981076a0643941630d0ae4012ec3a27",
+            "relevance": 602,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "http://www.w3schools.com/jsref/jsref_splice.asp",
+            "leafId": "0c39257fd2ce6ea9180ac1e7234ee161",
+            "nodeId": "c981076a0643941630d0ae4012ec3a27",
+            "relevance": 601,
+            "type": "NAVIGATION"
+          },
+          {
+            "leafName": "javascript splice vs slice",
+            "leafId": "7829423c28d042ca1f6f398f38c6d9eb",
+            "nodeId": "c981076a0643941630d0ae4012ec3a27",
+            "relevance": 600,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript splice function",
+            "leafId": "e2c394d3786ce6e3f7993cc25c870a50",
+            "nodeId": "c981076a0643941630d0ae4012ec3a27",
+            "relevance": 566,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript splice not working",
+            "leafId": "df54cf9adc8b522f4006e239e859932f",
+            "nodeId": "c981076a0643941630d0ae4012ec3a27",
+            "relevance": 565,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript splice array into array",
+            "leafId": "2ac0167c6b055aad28462c6de6297367",
+            "nodeId": "c981076a0643941630d0ae4012ec3a27",
+            "relevance": 564,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript splice last element",
+            "leafId": "3dbd52d4cd5846d430a7250b8514f9f7",
+            "nodeId": "c981076a0643941630d0ae4012ec3a27",
+            "relevance": 563,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript splice slice",
+            "leafId": "4b2ed8a3a270c558472cd7b0e75e2bcf",
+            "nodeId": "c981076a0643941630d0ae4012ec3a27",
+            "relevance": 562,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript splice performance",
+            "leafId": "a1160cd6b11f3c894cc717cf181f63e6",
+            "nodeId": "c981076a0643941630d0ae4012ec3a27",
+            "relevance": 561,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript splice without mutation",
+            "leafId": "82a6753411022fc845b36af9f420b6d8",
+            "nodeId": "c981076a0643941630d0ae4012ec3a27",
+            "relevance": 560,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript splice array of objects",
+            "leafId": "60ec940d36827b7d85b7ee31534cabb1",
+            "nodeId": "c981076a0643941630d0ae4012ec3a27",
+            "relevance": 559,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript splice multidimensional array",
+            "leafId": "12a43551736929ba0bcd90f328927e67",
+            "nodeId": "c981076a0643941630d0ae4012ec3a27",
+            "relevance": 558,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript splice mdn",
+            "leafId": "0d7d687280c0542bdbb5b118019e433e",
+            "nodeId": "c981076a0643941630d0ae4012ec3a27",
+            "relevance": 557,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript splice insert array",
+            "leafId": "dbaa68db4f81516f16514a24311a170c",
+            "nodeId": "c981076a0643941630d0ae4012ec3a27",
+            "relevance": 556,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript splice insert",
+            "leafId": "0c8bc571557f672d6f6d902b845952e3",
+            "nodeId": "c981076a0643941630d0ae4012ec3a27",
+            "relevance": 555,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript splice replace",
+            "leafId": "b4ce495569cbd34ea167e32980577da2",
+            "nodeId": "c981076a0643941630d0ae4012ec3a27",
+            "relevance": 554,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript splice string into array",
+            "leafId": "eedc12ce37dbd9e531ca8077332a9005",
+            "nodeId": "c981076a0643941630d0ae4012ec3a27",
+            "relevance": 553,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript splice remove element",
+            "leafId": "ab4237e2376e614dabab0dc4164442e2",
+            "nodeId": "c981076a0643941630d0ae4012ec3a27",
+            "relevance": 552,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript splice by value",
+            "leafId": "6627c71a64c0131a35478d3f8175ad95",
+            "nodeId": "c981076a0643941630d0ae4012ec3a27",
+            "relevance": 551,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript splice runtime",
+            "leafId": "3376b0845759986d419b5343421dfb8e",
+            "nodeId": "c981076a0643941630d0ae4012ec3a27",
+            "relevance": 550,
+            "type": "QUERY"
+          }
+        ]
+      },
+      {
+        "nodeName": "javascript alert",
+        "nodeId": "281a992752b152b65503bf4b14a16b32",
+        "leaves": [
+          {
+            "leafName": "javascript alert box",
+            "leafId": "596d26243b83a5f73c06f1abad3202de",
+            "nodeId": "281a992752b152b65503bf4b14a16b32",
+            "relevance": 700,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "http://www.w3schools.com/js/js_popup.asp",
+            "leafId": "8ec213d825b978821f40096875772624",
+            "nodeId": "281a992752b152b65503bf4b14a16b32",
+            "relevance": 699,
+            "type": "NAVIGATION"
+          },
+          {
+            "leafName": "javascript alert yes no",
+            "leafId": "6ae904b4018c749d98fb9cb42c5775e2",
+            "nodeId": "281a992752b152b65503bf4b14a16b32",
+            "relevance": 601,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript alert variable",
+            "leafId": "90171d55cbad316252f6bb8676ef967a",
+            "nodeId": "281a992752b152b65503bf4b14a16b32",
+            "relevance": 600,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript alert new line",
+            "leafId": "330ac522b38050b1ba067b4ac2dc6e8a",
+            "nodeId": "281a992752b152b65503bf4b14a16b32",
+            "relevance": 565,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript alert title",
+            "leafId": "d9c7dee1e0a3521d4f9552df2235ce59",
+            "nodeId": "281a992752b152b65503bf4b14a16b32",
+            "relevance": 564,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript alert(1)",
+            "leafId": "7a072fe396cc8221fdaf9412212fe3d1",
+            "nodeId": "281a992752b152b65503bf4b14a16b32",
+            "relevance": 563,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript alert not working",
+            "leafId": "b2961f843e595cd9d60656b4ce0eca9a",
+            "nodeId": "281a992752b152b65503bf4b14a16b32",
+            "relevance": 562,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript alert not showing",
+            "leafId": "9d60c272932b0218a783b883984efecc",
+            "nodeId": "281a992752b152b65503bf4b14a16b32",
+            "relevance": 561,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript alert confirm",
+            "leafId": "9563cdd6aa48800aab93647af4fad4ad",
+            "nodeId": "281a992752b152b65503bf4b14a16b32",
+            "relevance": 560,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript alert line break",
+            "leafId": "399e5e817863c798e9d6c3c9baccfd4a",
+            "nodeId": "281a992752b152b65503bf4b14a16b32",
+            "relevance": 559,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript alert array",
+            "leafId": "36410c6ea32dcc1332e59b704efcef6e",
+            "nodeId": "281a992752b152b65503bf4b14a16b32",
+            "relevance": 558,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript alert(document.lastmodified)",
+            "leafId": "3d3d42a030bc8d97339cf562f31b2b94",
+            "nodeId": "281a992752b152b65503bf4b14a16b32",
+            "relevance": 557,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript alert object",
+            "leafId": "c98a4db22934d03ee68e05287c98c0cf",
+            "nodeId": "281a992752b152b65503bf4b14a16b32",
+            "relevance": 556,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript alert on page load",
+            "leafId": "ebae531fbbdbd11b50e22af5b0ff5536",
+            "nodeId": "281a992752b152b65503bf4b14a16b32",
+            "relevance": 555,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript alert onclick",
+            "leafId": "d511e293dba06a4ac2bdd002074b8db3",
+            "nodeId": "281a992752b152b65503bf4b14a16b32",
+            "relevance": 554,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript alert alternative",
+            "leafId": "5bc041e8a5e13c118c0cca73a6468bba",
+            "nodeId": "281a992752b152b65503bf4b14a16b32",
+            "relevance": 553,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript alert object as string",
+            "leafId": "6ff8eb62aadcb63b027408897f3cafdf",
+            "nodeId": "281a992752b152b65503bf4b14a16b32",
+            "relevance": 552,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript alert error",
+            "leafId": "47b5af8b50dd272a414788299559adc8",
+            "nodeId": "281a992752b152b65503bf4b14a16b32",
+            "relevance": 551,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript alert sound",
+            "leafId": "e1c9fcc0cc4584ace4a8a8fbb10351e3",
+            "nodeId": "281a992752b152b65503bf4b14a16b32",
+            "relevance": 550,
+            "type": "QUERY"
+          }
+        ]
+      },
+      {
+        "nodeName": "javascript promise",
+        "nodeId": "0cc4d0d228a2653627da6b2bb9880d49",
+        "leaves": [
+          {
+            "leafName": "javascript promise example",
+            "leafId": "816b3c3a88e8a787f148545a407c7f21",
+            "nodeId": "0cc4d0d228a2653627da6b2bb9880d49",
+            "relevance": 850,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript promise then",
+            "leafId": "d066e44e8000fd5272c5165a8ca6bd01",
+            "nodeId": "0cc4d0d228a2653627da6b2bb9880d49",
+            "relevance": 601,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript promise all",
+            "leafId": "99a4baa8422e110712e2d73039ece9d9",
+            "nodeId": "0cc4d0d228a2653627da6b2bb9880d49",
+            "relevance": 600,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript promise tutorial",
+            "leafId": "743766bd65a480ed622e63de1158ff41",
+            "nodeId": "0cc4d0d228a2653627da6b2bb9880d49",
+            "relevance": 566,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript promise then catch",
+            "leafId": "44164bb6708a93f07fcf895ccfcc2399",
+            "nodeId": "0cc4d0d228a2653627da6b2bb9880d49",
+            "relevance": 565,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript promise finally",
+            "leafId": "3629460a50e5a019d20c4a716eb34fdb",
+            "nodeId": "0cc4d0d228a2653627da6b2bb9880d49",
+            "relevance": 564,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript promise resolve",
+            "leafId": "9eb216b43c8b18ac80f15d948fc0f83c",
+            "nodeId": "0cc4d0d228a2653627da6b2bb9880d49",
+            "relevance": 563,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript promise chain",
+            "leafId": "72bd8119913d273f8e7657130b45d7d9",
+            "nodeId": "0cc4d0d228a2653627da6b2bb9880d49",
+            "relevance": 562,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript promise reject",
+            "leafId": "c54253bca19ff4e12d54a8399c78268e",
+            "nodeId": "0cc4d0d228a2653627da6b2bb9880d49",
+            "relevance": 561,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript promise retry",
+            "leafId": "0755f98cb24d33194c62fc38821c08ca",
+            "nodeId": "0cc4d0d228a2653627da6b2bb9880d49",
+            "relevance": 560,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript promise return value",
+            "leafId": "d7e6ed51742185df5327cdf3a4f3fe81",
+            "nodeId": "0cc4d0d228a2653627da6b2bb9880d49",
+            "relevance": 559,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript promise wait",
+            "leafId": "487a1e6b0427b9bbd2c50dc7f4781029",
+            "nodeId": "0cc4d0d228a2653627da6b2bb9880d49",
+            "relevance": 558,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript promise library",
+            "leafId": "ec69708b4ef358c135c63976f0e6ffc0",
+            "nodeId": "0cc4d0d228a2653627da6b2bb9880d49",
+            "relevance": 557,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript promises explained",
+            "leafId": "e83eccf1d6136433e6c72efa5bf6ae13",
+            "nodeId": "0cc4d0d228a2653627da6b2bb9880d49",
+            "relevance": 556,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript promise timeout",
+            "leafId": "78d675329eece59c355e33a81e191289",
+            "nodeId": "0cc4d0d228a2653627da6b2bb9880d49",
+            "relevance": 555,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript promise vs callback",
+            "leafId": "23edf28a3e12ea649a320c8d07b2faa5",
+            "nodeId": "0cc4d0d228a2653627da6b2bb9880d49",
+            "relevance": 554,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript promise error handling",
+            "leafId": "d5ac4382a1978894d041bdd8ff69c197",
+            "nodeId": "0cc4d0d228a2653627da6b2bb9880d49",
+            "relevance": 553,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript promise polyfill",
+            "leafId": "e7bc20fa74a94c6bfc6620401f14038e",
+            "nodeId": "0cc4d0d228a2653627da6b2bb9880d49",
+            "relevance": 552,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript promise done",
+            "leafId": "d87b2915c1c4fdbda7214d717ac6b66c",
+            "nodeId": "0cc4d0d228a2653627da6b2bb9880d49",
+            "relevance": 551,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript promise always",
+            "leafId": "4273116afc7e8aa6273012e8d08d5faf",
+            "nodeId": "0cc4d0d228a2653627da6b2bb9880d49",
+            "relevance": 550,
+            "type": "QUERY"
+          }
+        ]
+      },
+      {
+        "nodeName": "javascript switch",
+        "nodeId": "60b64244012fd56498b05dd0654fd9e9",
+        "leaves": [
+          {
+            "leafName": "javascript switch case multiple values",
+            "leafId": "8592deacad028b074cf8888b1d5ae12a",
+            "nodeId": "60b64244012fd56498b05dd0654fd9e9",
+            "relevance": 602,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "http://www.w3schools.com/js/js_switch.asp",
+            "leafId": "8142e457a6d589ae85ce0f645412e3c4",
+            "nodeId": "60b64244012fd56498b05dd0654fd9e9",
+            "relevance": 601,
+            "type": "NAVIGATION"
+          },
+          {
+            "leafName": "javascript switch string",
+            "leafId": "786d8f5cdd9ad70bbcd508097bcc7bf7",
+            "nodeId": "60b64244012fd56498b05dd0654fd9e9",
+            "relevance": 600,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript switch return",
+            "leafId": "11e384178876eefd95d75a751ae230fa",
+            "nodeId": "60b64244012fd56498b05dd0654fd9e9",
+            "relevance": 566,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript switch vs if",
+            "leafId": "47d5331045c204c80a5fe8c7fdf949c9",
+            "nodeId": "60b64244012fd56498b05dd0654fd9e9",
+            "relevance": 565,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript switch regex",
+            "leafId": "3cc0ba30f2cb3b6558d94e9e651c177f",
+            "nodeId": "60b64244012fd56498b05dd0654fd9e9",
+            "relevance": 564,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript switch fall through",
+            "leafId": "dc74b6caa15437dce34caff1e1829550",
+            "nodeId": "60b64244012fd56498b05dd0654fd9e9",
+            "relevance": 563,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript switch range",
+            "leafId": "9ab4a1f90eb027e6ecf4c7becede0091",
+            "nodeId": "60b64244012fd56498b05dd0654fd9e9",
+            "relevance": 562,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript switch greater than",
+            "leafId": "adad95926ec1df4ef523c17b3af1de5e",
+            "nodeId": "60b64244012fd56498b05dd0654fd9e9",
+            "relevance": 561,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript switch expression",
+            "leafId": "c3f5d5526c00aed6295bce98d9bbd7a4",
+            "nodeId": "60b64244012fd56498b05dd0654fd9e9",
+            "relevance": 560,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript switch or",
+            "leafId": "464edff58ba00a8d27f80a6cc919af70",
+            "nodeId": "60b64244012fd56498b05dd0654fd9e9",
+            "relevance": 559,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript switcher",
+            "leafId": "d82c8c84dca397245e9d2f9636297817",
+            "nodeId": "60b64244012fd56498b05dd0654fd9e9",
+            "relevance": 558,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript switch multiple variables",
+            "leafId": "312de650cd7c012185f706ccf6092684",
+            "nodeId": "60b64244012fd56498b05dd0654fd9e9",
+            "relevance": 557,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript switch boolean",
+            "leafId": "a8895922723f24e97c2050c536be0b30",
+            "nodeId": "60b64244012fd56498b05dd0654fd9e9",
+            "relevance": 556,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript switch return value",
+            "leafId": "39824970946c5b3f34ca28a3870d4697",
+            "nodeId": "60b64244012fd56498b05dd0654fd9e9",
+            "relevance": 555,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript switchmap",
+            "leafId": "8a511c4d9fab906ce349819c9c4bb672",
+            "nodeId": "60b64244012fd56498b05dd0654fd9e9",
+            "relevance": 554,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript switch true",
+            "leafId": "8927cbe54c588425d4109c0c530a5c8f",
+            "nodeId": "60b64244012fd56498b05dd0654fd9e9",
+            "relevance": 553,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript switch assignment",
+            "leafId": "cfc1299454985262eabc4087e6bd8ffb",
+            "nodeId": "60b64244012fd56498b05dd0654fd9e9",
+            "relevance": 552,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript switch instanceof",
+            "leafId": "ff6ca722597b08ae03c5655755dcd477",
+            "nodeId": "60b64244012fd56498b05dd0654fd9e9",
+            "relevance": 551,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript switch case fall through",
+            "leafId": "81850796cd4101826c87c7c2a1cca3d2",
+            "nodeId": "60b64244012fd56498b05dd0654fd9e9",
+            "relevance": 550,
+            "type": "QUERY"
+          }
+        ]
+      }
+    ],
+    "parents": [
+      {
+        "nodeName": "javascript",
+        "nodeId": "0e9c211933d048c452f4077c8dc77bb0",
+        "leaves": [
+          {
+            "leafName": "javascript substring",
+            "leafId": "a79544b0b80210a73b93c734e866419c",
+            "nodeId": "0e9c211933d048c452f4077c8dc77bb0",
+            "relevance": 601,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript snake",
+            "leafId": "183c8a2facd9f1b33fffe13c5b07fea3",
+            "nodeId": "0e9c211933d048c452f4077c8dc77bb0",
+            "relevance": 600,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript array",
+            "leafId": "91ab3345d065581bd0b2d8b41073b039",
+            "nodeId": "0e9c211933d048c452f4077c8dc77bb0",
+            "relevance": 567,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript foreach",
+            "leafId": "38af42380ee2a211134204639bf1e609",
+            "nodeId": "0e9c211933d048c452f4077c8dc77bb0",
+            "relevance": 566,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript for loop",
+            "leafId": "b6b42435a9b61977eb784fbba4d3cb3a",
+            "nodeId": "0e9c211933d048c452f4077c8dc77bb0",
+            "relevance": 565,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript map",
+            "leafId": "4cbf7cab9443394968f0ca240963bf2e",
+            "nodeId": "0e9c211933d048c452f4077c8dc77bb0",
+            "relevance": 564,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript tutorial",
+            "leafId": "c430c8f51bd49289f7eeda3e889d54b6",
+            "nodeId": "0e9c211933d048c452f4077c8dc77bb0",
+            "relevance": 563,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript date",
+            "leafId": "13cea582a20873d6159c41d8ecb69e23",
+            "nodeId": "0e9c211933d048c452f4077c8dc77bb0",
+            "relevance": 562,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript regex",
+            "leafId": "b8316eecb7afc904660b19312e3dd2ad",
+            "nodeId": "0e9c211933d048c452f4077c8dc77bb0",
+            "relevance": 561,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript interview questions",
+            "leafId": "1590d0c8ef8b4453e5ce9fdf17ceeb20",
+            "nodeId": "0e9c211933d048c452f4077c8dc77bb0",
+            "relevance": 560,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript settimeout",
+            "leafId": "5f5dd1b52462ecf7ee0a781d462cd4f4",
+            "nodeId": "0e9c211933d048c452f4077c8dc77bb0",
+            "relevance": 559,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript indexof",
+            "leafId": "4747913d004b600e956462ba322805fb",
+            "nodeId": "0e9c211933d048c452f4077c8dc77bb0",
+            "relevance": 558,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript string contains",
+            "leafId": "e2943b95e0bf822ca0d6316539b63cf0",
+            "nodeId": "0e9c211933d048c452f4077c8dc77bb0",
+            "relevance": 557,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript replace",
+            "leafId": "370864d694d4688ba3c731c3d07ccae9",
+            "nodeId": "0e9c211933d048c452f4077c8dc77bb0",
+            "relevance": 556,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript download",
+            "leafId": "c94e2f0c00c0b772665185e41708e8e9",
+            "nodeId": "0e9c211933d048c452f4077c8dc77bb0",
+            "relevance": 555,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript split",
+            "leafId": "f6066c5e296ebcbef3ea0de42447027d",
+            "nodeId": "0e9c211933d048c452f4077c8dc77bb0",
+            "relevance": 554,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript splice",
+            "leafId": "2be4cd2acf47d51788ab06753d51867a",
+            "nodeId": "0e9c211933d048c452f4077c8dc77bb0",
+            "relevance": 553,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript alert",
+            "leafId": "1e35a8d46e65d36e29ab9bc363e5a86a",
+            "nodeId": "0e9c211933d048c452f4077c8dc77bb0",
+            "relevance": 552,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript promise",
+            "leafId": "13d43b9162ec5d8e3df53bc5e39c299e",
+            "nodeId": "0e9c211933d048c452f4077c8dc77bb0",
+            "relevance": 551,
+            "type": "QUERY"
+          },
+          {
+            "leafName": "javascript switch",
+            "leafId": "9625f619eba47bc196bf181022008fac",
+            "nodeId": "0e9c211933d048c452f4077c8dc77bb0",
+            "relevance": 550,
+            "type": "QUERY"
+          }
+        ]
+      }
+    ]
+  }
+]
