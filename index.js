@@ -1,23 +1,28 @@
-require('isomorphic-fetch')
-const BASE_URL = `http://suggestqueries.google.com/complete/search?client=chrome&q=`;
+const fetch = require('isomorphic-fetch')
 
 module.exports = async (term, opts = {}) => {
-  const resp = await fetch(BASE_URL + term)
+  const url = new URL('http://suggestqueries.google.com/complete/search')
+  url.searchParams.append('client', 'chrome')
+  url.searchParams.append('q', term)
+  const resp = await fetch(url.toString())
   const text = await resp.text()
   const [value, terms, a, b, props] = JSON.parse(text)
-  const set = new Set()
 
-  for(let [key, value] of terms.entries()) {
-    let relevance = props['google:suggestrelevance'][key]
-    let type = props['google:suggesttype'][key]
-    set.add({value, relevance, type})
-  }
+  const set = terms.map((value, index) => {
+    let relevance = props['google:suggestrelevance'][index]
+    let type = props['google:suggesttype'][index]
+    return {
+      value,
+      relevance,
+      type
+    }
+  })
 
-  let relevance = props['google:verbatimrelevance']
+  const relevance = props['google:verbatimrelevance']
 
   return { 
     value, 
     relevance, 
-    set: [...set] 
+    set
   }
 }

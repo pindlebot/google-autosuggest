@@ -1,0 +1,106 @@
+{
+  "value": "javascript",
+  "relevance": 1300,
+  "set": [
+    {
+      "value": "javascript snake",
+      "relevance": 601,
+      "type": "QUERY"
+    },
+    {
+      "value": "javascript foreach",
+      "relevance": 600,
+      "type": "QUERY"
+    },
+    {
+      "value": "javascript map",
+      "relevance": 567,
+      "type": "QUERY"
+    },
+    {
+      "value": "javascript substring",
+      "relevance": 566,
+      "type": "QUERY"
+    },
+    {
+      "value": "javascript array",
+      "relevance": 565,
+      "type": "QUERY"
+    },
+    {
+      "value": "javascript for loop",
+      "relevance": 564,
+      "type": "QUERY"
+    },
+    {
+      "value": "javascript tutorial",
+      "relevance": 563,
+      "type": "QUERY"
+    },
+    {
+      "value": "javascript date",
+      "relevance": 562,
+      "type": "QUERY"
+    },
+    {
+      "value": "javascript regex",
+      "relevance": 561,
+      "type": "QUERY"
+    },
+    {
+      "value": "javascript switch",
+      "relevance": 560,
+      "type": "QUERY"
+    },
+    {
+      "value": "javascript split",
+      "relevance": 559,
+      "type": "QUERY"
+    },
+    {
+      "value": "javascript replace",
+      "relevance": 558,
+      "type": "QUERY"
+    },
+    {
+      "value": "javascript string contains",
+      "relevance": 557,
+      "type": "QUERY"
+    },
+    {
+      "value": "javascript settimeout",
+      "relevance": 556,
+      "type": "QUERY"
+    },
+    {
+      "value": "javascript indexof",
+      "relevance": 555,
+      "type": "QUERY"
+    },
+    {
+      "value": "javascript promise",
+      "relevance": 554,
+      "type": "QUERY"
+    },
+    {
+      "value": "javascript reduce",
+      "relevance": 553,
+      "type": "QUERY"
+    },
+    {
+      "value": "javascript interview questions",
+      "relevance": 552,
+      "type": "QUERY"
+    },
+    {
+      "value": "javascript splice",
+      "relevance": 551,
+      "type": "QUERY"
+    },
+    {
+      "value": "javascript slice",
+      "relevance": 550,
+      "type": "QUERY"
+    }
+  ]
+}
